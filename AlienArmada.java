@@ -9,11 +9,7 @@ import javafx.stage.Stage;
 import java.util.Random;
 
 /**
- *
- * Assignment3
- * @author Afroja Nasrin Mim,
- * 
- *
+ * @author Afroja Nasrin Mim
  */
 
 public class AlienArmada extends Application {

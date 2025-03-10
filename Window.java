@@ -1,11 +1,7 @@
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 /**
- *
- * Assignment3
- * @author Afroja Nasrin Mim,
- * 
- *
+ * @author Afroja Nasrin Mim
  */
 
 public class Window {

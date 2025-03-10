@@ -2,11 +2,7 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
 import java.util.Random;
 /**
- *
- * Assignment3
- * @author Afroja Nasrin Mim,
- * 
- *
+ * @author Afroja Nasrin Mim
  */
 public class Squadron {
     private double xCoordinate;
